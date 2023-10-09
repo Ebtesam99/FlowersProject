@@ -1,1 +1,2 @@
 # FlowersProject
+Flower is a modified shoot with condensed axis called thalamus and appendages called floral organs. Stamens (microsporophylls) and carpels (megasporophylls) represent the essential parts of a flower.
